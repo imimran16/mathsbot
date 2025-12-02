@@ -2,9 +2,6 @@ import telebot
 from openai import OpenAI
 import os
 import base64
-bot = telebot.TeleBot(TOKEN)
-client = OpenAI(api_key=OPENAI_API_KEY)
-
 # -----------------------------------
 # /start COMMAND — ChatGPT Style Intro
 # -----------------------------------

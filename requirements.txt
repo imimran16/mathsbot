@@ -2,4 +2,3 @@ pyTelegramBotAPI
 openai
 Pillow
 requests
-base64
